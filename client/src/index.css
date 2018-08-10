@@ -1,0 +1,13 @@
+body {
+        /* background-image: url("https://images4.alphacoders.com/292/thumb-1920-292118.jpg"); */
+        background-image: url("./images/potential1.jpg");
+        background-position:top;
+        background: cover;
+        background-repeat: no-repeat;
+    }
+
+    div[data-reactroot] {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
